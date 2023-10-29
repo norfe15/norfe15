@@ -1,7 +1,10 @@
 
 ![Yo!](https://cdn3.emoji.gg/emojis/5382-yo-pepe.png)
 # 👋 Howdy, I’m Vigge. Welcome to my profile!
-I'm interested in coding and challenging myself.
+Coding is my passion and I love to challenge myself with new projects and problems.
+I enjoy learning new skills and technologies, and I always strive to improve my code quality and efficiency.
+I find coding to be a rewarding and fun activity that stimulates my creativity and curiosity.
+
 - Discord: Norfe
 - asdf
 - 「(だ)ってばよ!」
