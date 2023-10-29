@@ -14,7 +14,7 @@ Quotes:
 > 
 > "If you don't like your destiny, don't accept it. Instead have the courage to change it the way you want it to be." - Naruto Uzumaki, Naruto.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NorthPew&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NorthPew&theme=transparent)
 
 ### 🏫 Learned languages
 Learned from education:
