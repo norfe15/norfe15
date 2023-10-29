@@ -16,55 +16,77 @@ Quotes:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NorthPew&theme=transparent)
 
-### 🏫 Learned languages
-Learned from education:
+<details> 
+ <summary><h2>Learned languages </h2></summary>
+ Learned from education:
+ 
+ ![CSS]( 
+ https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![HTML]( 
+ https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![JS]( 
+ https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![JSON]( 
+ https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white) ![PHP]( 
+ https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+ 
+ Learned on my own:
+ 
+ ![C#]( 
+ https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
+ 
+</details>
 
-![CSS]( 
-https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![HTML]( 
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![JS]( 
-https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![JSON]( 
-https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white) ![PHP]( 
-https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+<details> 
+ <summary><h2>Learned frameworks & libraries </h2></summary>
+ Learned from education:
+ 
+  ![React](  
+ https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  ![Vite](  
+ https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)  ![Pages](  
+ https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white) ![NPM](  
+ https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+ 
+ Learned on my own:
+ 
+ ![Net](   
+ https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Net](    
+ https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)  ![Jquery](    
+ https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) ![Expo](     
+ https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
+ 
+</details>
 
-Learned on my own:
+<details> 
+ <summary><h2>OS used </h2></summary>
+ 
+ ![Android]( 
+ https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Fedora]( 
+ https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) ![POP]( 
+ https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white) ![Win11]( 
+ https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
+ 
+</details> 
 
-![C#]( 
-https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
-### 🏫  Learned frameworks & libraries
-Learned from education:
+<details> 
+ <summary><h2>Terminals used</h2></summary>
+ 
+ ![Git]( 
+ https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Win Terminal]( 
+ https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
+ 
+</details>
 
- ![React](  
-https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  ![Vite](  
-https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)  ![Pages](  
-https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white) ![NPM](  
-https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-
-Learned on my own:
-
-![Net](   
-https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Net](    
-https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)  ![Jquery](    
-https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) ![Expo](     
-https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
-
-
-
-### 👌 OS used
-![Android]( 
-https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Fedora]( 
-https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) ![POP]( 
-https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white) ![Win11]( 
-https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
-### ✒️ Terminals used
-![Git]( 
-https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Win Terminal]( 
-https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
-### 🧭 Browsers used
+<details> 
+ <summary><h2>Browsers used</h2></summary>
+ 
  ![Brave]( 
 https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)  ![Chrome]( 
 https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)  ![Edge]( 
 https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white) 
-### 👷 Tools & programs used
+
+</details>
+
+<details> 
+ <summary><h2>Tools & programs used</h2></summary>
+  
  ![Trello]( 
 https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) ![Notion]( 
 https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)  ![Office]( 
@@ -77,6 +99,7 @@ https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=A
 https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white) ![Figma]( 
 https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
 
+</details> 
 <!---
 NorthPew/NorthPew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
