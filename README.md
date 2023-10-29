@@ -1,23 +1,37 @@
 
 ![Yo!](https://cdn3.emoji.gg/emojis/5382-yo-pepe.png)
-# 👋 Howdy, I’m Vigge. Welcome to my profile!
-Coding is my passion and I love to challenge myself with new projects and problems.
-I enjoy learning new skills and technologies, and I always strive to improve my code quality and efficiency.
-I find coding to be a rewarding and fun activity that stimulates my creativity and curiosity.
+<h1>👋 Howdy, I’m Vigge. Welcome to my profile!</h1> 
+<p>Coding is my passion and I love to challenge myself with new projects and problems.</p>
+<p>I enjoy learning new skills and technologies, and I always strive to improve my code quality and efficiency.</p>
+<p>I find coding to be a rewarding and fun activity that stimulates my creativity and curiosity.</p>
 
-- Discord: Norfe
-- asdf
-- 「(だ)ってばよ!」
+<ul>
+ <li>
+  Discord: Norfe
+ </li>
+ <li>
+  asdf
+ </li>
+ <li>
+  「(だ)ってばよ!」
+ </li>
+</ul>
 
 Quotes:
 > "自分一人だけ淋しがってるなんて、そんな勝手なこと思ってんじゃねえよ!" - Ichigo Kurosaki, Bleach.
 > 
 > "If you don't like your destiny, don't accept it. Instead have the courage to change it the way you want it to be." - Naruto Uzumaki, Naruto.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NorthPew&theme=transparent)
+<details>
+ <summary><h3>Stats</h3></summary>
+ 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NorthPew&theme=transparent)
+ 
+</details>
+
 
 <details> 
- <summary><h2>Learned languages </h2></summary>
+ <summary><h3>Learned languages </h3></summary>
  Learned from education:
  
  ![CSS]( 
@@ -35,7 +49,7 @@ Quotes:
 </details>
 
 <details> 
- <summary><h2>Learned frameworks & libraries </h2></summary>
+ <summary><h3>Learned frameworks & libraries </h3></summary>
  Learned from education:
  
   ![React](  
@@ -55,7 +69,7 @@ Quotes:
 </details>
 
 <details> 
- <summary><h2>OS used </h2></summary>
+ <summary><h3>OS used </h3></summary>
  
  ![Android]( 
  https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Fedora]( 
@@ -66,7 +80,7 @@ Quotes:
 </details> 
 
 <details> 
- <summary><h2>Terminals used</h2></summary>
+ <summary><h3>Terminals used</h3></summary>
  
  ![Git]( 
  https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Win Terminal]( 
@@ -75,7 +89,7 @@ Quotes:
 </details>
 
 <details> 
- <summary><h2>Browsers used</h2></summary>
+ <summary><h3>Browsers used</h3></summary>
  
  ![Brave]( 
 https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)  ![Chrome]( 
@@ -85,7 +99,7 @@ https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Micr
 </details>
 
 <details> 
- <summary><h2>Tools & programs used</h2></summary>
+ <summary><h3>Tools & programs used</h3></summary>
   
  ![Trello]( 
 https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) ![Notion]( 
