@@ -19,11 +19,11 @@
 
 Quotes:
 > "自分一人だけ淋しがってるなんて、そんな勝手なこと思ってんじゃねえよ!" - Ichigo Kurosaki, Bleach.
-> 
+
 > "If you don't like your destiny, don't accept it. Instead have the courage to change it the way you want it to be." - Naruto Uzumaki, Naruto.
 
 <details>
- <summary><h3>Stats</h3></summary>
+ <summary><span>Stats</span></summary>
  
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NorthPew&theme=transparent)
  
@@ -31,7 +31,7 @@ Quotes:
 
 
 <details> 
- <summary><h3>Learned languages </h3></summary>
+ <summary><span>Learned languages </span></summary>
  Learned from education:
  
  ![CSS]( 
@@ -49,7 +49,7 @@ Quotes:
 </details>
 
 <details> 
- <summary><h3>Learned frameworks & libraries </h3></summary>
+ <summary><span>Learned frameworks & libraries </span></summary>
  Learned from education:
  
   ![React](  
@@ -69,7 +69,7 @@ Quotes:
 </details>
 
 <details> 
- <summary><h3>OS used </h3></summary>
+ <summary><span>OS used </span></summary>
  
  ![Android]( 
  https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Fedora]( 
@@ -80,7 +80,7 @@ Quotes:
 </details> 
 
 <details> 
- <summary><h3>Terminals used</h3></summary>
+ <summary><span>Terminals used</span></summary>
  
  ![Git]( 
  https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Win Terminal]( 
@@ -89,7 +89,7 @@ Quotes:
 </details>
 
 <details> 
- <summary><h3>Browsers used</h3></summary>
+ <summary><span>Browsers used</span></summary>
  
  ![Brave]( 
 https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)  ![Chrome]( 
@@ -99,7 +99,7 @@ https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Micr
 </details>
 
 <details> 
- <summary><h3>Tools & programs used</h3></summary>
+ <summary><span>Tools & programs used</span></summary>
   
  ![Trello]( 
 https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) ![Notion]( 
