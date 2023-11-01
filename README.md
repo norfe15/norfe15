@@ -1,6 +1,6 @@
 
 ![Yo!](https://cdn3.emoji.gg/emojis/5382-yo-pepe.png)
-<h1>👋 Howdy, I’m Vigge. Welcome to my profile!</h1> 
+<h1 align="center">👋 Howdy, I’m Vigge. Welcome to my profile!</h1> 
 <p>Coding is my passion and I love to challenge myself with new projects and problems.</p>
 <p>I enjoy learning new skills and technologies, and I always strive to improve my code quality and efficiency.</p>
 <p>I find coding to be a rewarding and fun activity that stimulates my creativity and curiosity.</p>
