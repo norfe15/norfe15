@@ -95,7 +95,8 @@ Quotes:
 https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)  ![Chrome]( 
 https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)  ![Edge]( 
 https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white) 
-
+![Firefox]( 
+https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white) 
 </details>
 
 <details> 
@@ -113,7 +114,10 @@ https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=A
 https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white) ![Figma]( 
 https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
 
-</details> 
+</details>
+
+![Ichigo](https://static.tvtropes.org/pmwiki/pub/images/bbs_ichigo.png)
+
 <!---
 NorthPew/NorthPew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
