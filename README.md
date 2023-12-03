@@ -1,5 +1,8 @@
 
-<h1 align="center">👋🤠 Howdy, I’m Vigge. Welcome to my profile!</h1> 
+<h1 align="center">👋🤠 Howdy, I’m Vigge. Welcome to my profile!</h1>
+ 
+<img src="https://i.redd.it/5qhsxz9wehky.jpg" alt="Ichigo" />
+
 <p align="center">Coding is my passion and I love to challenge myself with new projects and problems.</p>
 <p align="center">I enjoy learning new skills and technologies, and I always strive to improve my code quality and efficiency.</p>
 <p align="center">I find coding to be a rewarding and fun activity that stimulates my creativity and curiosity.</p>
@@ -119,7 +122,7 @@ https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoCol
 
 </details>
 
-![Ichigo](https://static.tvtropes.org/pmwiki/pub/images/bbs_ichigo.png)
+<img src="https://static.tvtropes.org/pmwiki/pub/images/bbs_ichigo.png" alt="Ichigo" />
 
 <!---
 NorthPew/NorthPew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
