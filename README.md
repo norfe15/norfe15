@@ -1,36 +1,43 @@
-<h1 align="center">👋 Howdy, I’m Vigge. Welcome to my profile!</h1> 
+
+<h1 align="center">👋🤠 Howdy, I’m Vigge. Welcome to my profile!</h1> 
 <p align="center">Coding is my passion and I love to challenge myself with new projects and problems.</p>
 <p align="center">I enjoy learning new skills and technologies, and I always strive to improve my code quality and efficiency.</p>
 <p align="center">I find coding to be a rewarding and fun activity that stimulates my creativity and curiosity.</p>
 
-Contact:
+<h2 align="center">✉️ Contact</h2>
+
 <ul>
- <li>
+ <li >
   Discord: Norfe
  </li>
  <li>
   asdf
  </li>
  <li>
-  「(だ)ってばよ!」
+ 「(だ)ってばよ!」
  </li>
 </ul>
 
-Quotes:
+<h2 align="center">✍️ Quotes</h2>
+
 > "自分一人だけ淋しがってるなんて、そんな勝手なこと思ってんじゃねえよ!" - Ichigo Kurosaki, Bleach.
 
 > "If you don't like your destiny, don't accept it. Instead have the courage to change it the way you want it to be." - Naruto Uzumaki, Naruto.
 
+<h2 align="center">👑 Stats </h2>
+
 <details>
- <summary><span>Stats</span></summary>
+ <summary><span>Most used languages</span></summary>
  
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NorthPew&theme=transparent)
  
 </details>
 
+<h2 align="center">🔨 Languages & tools </h2>
 
 <details> 
  <summary><span>Learned languages </span></summary>
+ 
  Learned from education:
  
  ![CSS]( 
@@ -102,14 +109,11 @@ https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Fir
  <summary><span>Tools & programs used</span></summary>
   
  ![Trello]( 
-https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) ![Notion]( 
-https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)  ![Office]( 
+https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)  ![Office]( 
 https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) ![Code]( 
 https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Visual]( 
-https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) ![Visual]( 
-https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black) ![Insomnia]( 
-https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)  ![Photoshop]( 
-https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black) ![Gimp]( 
+https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) ![Insomnia]( 
+https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)   ![Gimp]( 
 https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white) ![Figma]( 
 https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
 
