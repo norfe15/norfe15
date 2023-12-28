@@ -1,4 +1,5 @@
 
+
 <h1 align="center">👋🤠 Howdy, I’m Vigge. Welcome to my profile!</h1>
  
 <img src="https://i.redd.it/5qhsxz9wehky.jpg" alt="Ichigo" />
@@ -9,12 +10,15 @@
 
 <h2 align="center">✉️ Contact</h2>
 
-<ul>
- <li >
+<ul align="center">
+ <li>
   Discord: Norfe
  </li>
  <li>
-  asdf
+  Steam: <a href="https://steamcommunity.com/id/Norfe/">Norfe</a>
+ </li>
+ <li>
+ Email: <a href="mailto:victor@norfe.xyz">victor@norfe.xyz</a>
  </li>
  <li>
  「(だ)ってばよ!」
@@ -29,12 +33,7 @@
 
 <h2 align="center">👑 Stats </h2>
 
-<details>
- <summary><span>Most used languages</span></summary>
- 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NorthPew&theme=transparent)
- 
-</details>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NorthPew&theme=transparent)
 
 <h2 align="center">🔨 Languages & tools </h2>
 
