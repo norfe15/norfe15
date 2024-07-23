@@ -30,7 +30,7 @@
 
 <h2 align="center">👑 Stats </h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NorthPew&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=norfe15&theme=transparent)
 
 <h2 align="center">🔨 In-depth </h2>
 
