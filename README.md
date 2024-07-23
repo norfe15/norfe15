@@ -1,8 +1,4 @@
-
-
-<h1 align="center">👋🤠 Howdy, I’m Victor. Welcome to my profile!</h1>
- 
-<img src="https://i.redd.it/5qhsxz9wehky.jpg" alt="Ichigo" />
+![68747470733a2f2f692e726564642e69742f35716873787a397765686b792e6a7067](https://github.com/user-attachments/assets/eb4305e4-f286-4d73-921f-71afa86e50b1)
 
 <p align="center">Coding is my passion and I love to challenge myself with new projects and problems.</p>
 <p align="center">I enjoy learning new skills and technologies, and I always strive to improve my code quality and efficiency.</p>
