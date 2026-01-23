@@ -16,3 +16,6 @@
 |--|--|--|
 
 
+<h1 align="center">
+<img src="https://github.com/user-attachments/assets/eb6b572d-cfad-45be-a886-e6adccf5e006" alt="ichigo-gives-orihime-look" />
+</h1>
