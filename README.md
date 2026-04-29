@@ -1,5 +1,3 @@
-
-
 <div align="center">
 <div>
 <h1 align="center">Norfe15's Corner</h1>
@@ -15,8 +13,8 @@
 
 <br />
 
-|<h1 align="center">My working stacks</h1> |<div align="center"><p>OS</p><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white"></div>|<div align="center"><p>Frameworks</p><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></div>|
-|--|--|--|
+|<h1 align="center">My working stacks</h1> |<div align="center"><p>OS</p><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white"></div>|<div align="center"><p>Frameworks</p><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Nuxt-00DC82.svg?style=for-the-badge&logo=Nuxt&logoColor=white">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Expo-1C2024.svg?style=for-the-badge&logo=Expo&logoColor=white"></div>|<div align="center"><p>Languages</p><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+|--|--|--|--|
 
 <br />
 
